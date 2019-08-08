@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Baneling",
+      "image": "baneling.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Broodlord",
+        "image": "broodlord.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Drone",
+        "image": "drone.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Hydralisk",
+        "image": "hydralisk.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Infestor",
+        "image": "infestor.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mutalisk",
+        "image": "mutalisk.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Overseer",
+        "image": "overseer.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Queen",
+        "image": "queen.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Roach",
+        "image": "roach.jpg"
+      },
+      {
+        "id": 10,
+        "name": "SwarmHost",
+        "image": "swarmhost.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Ultralisk",
+        "image": "ultralisk.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Zergling",
+        "image": "zergling.jpg"
+      }
+
+  ]
+  
