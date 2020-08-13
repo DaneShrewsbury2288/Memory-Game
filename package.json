@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://DaneShrewsbury2288.github.io/Memory-Game",
   "dependencies": {
+    "dot-prop": "^5.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
